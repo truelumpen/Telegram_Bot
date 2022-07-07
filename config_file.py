@@ -1,7 +1,7 @@
 telegram_token = '5422591657:AAFUCACE7p2FQU8bCfyNlpX5yeKzwwfoFxc'  # Бота создавать через @Botfather
 admin_id = 950239673
-URI = 'postgres://ycprugzmlsondv:937b07401d94abcead8ff9b9a265fa73567f2afbb827a5f1524955d23ef09683@ec2-34-242-8-97.eu-west-1.compute.amazonaws.com:5432/dfir7u9c39qs3l'
-
+URI = 'postgres://ainsadounkcwfb:de58e0fe950c1feef5bb11bf67baed160bd583ab5a1eff4f6e333d448b43a032@ec2-52-30-67-143.eu' \
+      '-west-1.compute.amazonaws.com:5432/dedl2u341j47dt '
 start_text = '''
     This is a multifunctional bot \t
     It's a part of my portfolio \t

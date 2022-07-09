@@ -1,6 +1,6 @@
-telegram_token = 'here is my token'  # Бота создавать через @Botfather
+telegram_token = '5422591657:AAFUCACE7p2FQU8bCfyNlpX5yeKzwwfoFxc'  # Бота создавать через @Botfather
 admin_id = 950239673
-URI = 'here is my db uri'
+URI = 'postgres://ainsadounkcwfb:de58e0fe950c1feef5bb11bf67baed160bd583ab5a1eff4f6e333d448b43a032@ec2-52-30-67-143.eu-west-1.compute.amazonaws.com:5432/dedl2u341j47dt'
 start_text = '''
     This is a multifunctional bot \t
     It's a part of my portfolio \t
